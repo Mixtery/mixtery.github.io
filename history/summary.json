@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/athena.terlouw.ai.ico",
     "slug": "athena-terlouw-ai",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 378,
     "timeDay": 378,
     "timeWeek": 378,
     "timeMonth": 378,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-02-03": 7
+      "2023-02-03": 11
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aphrodite.terlouw.ai.ico",
     "slug": "artemis-terlouw-ai",
     "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "97.12%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "uptime": "61.82%",
+    "uptimeDay": "61.82%",
+    "uptimeWeek": "61.82%",
+    "uptimeMonth": "61.82%",
+    "uptimeYear": "61.82%",
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-02-03": 0
+      "2023-02-03": 4
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/artemis.terlouw.ai.ico",
     "slug": "artemis-terlouw-ai",
     "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "97.12%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "uptime": "61.83%",
+    "uptimeDay": "61.83%",
+    "uptimeWeek": "61.83%",
+    "uptimeMonth": "61.83%",
+    "uptimeYear": "61.83%",
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-02-03": 0
+      "2023-02-03": 4
     }
   },
   {
