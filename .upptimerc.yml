@@ -11,8 +11,6 @@ sites:
     url: https://terlouw.ai
   - name: artemis.terlouw.ai
     url: https://terlouw.ai
-  - name: artemis.terlouw.ai
-    url: https://terlouw.ai
   - name: API 3.6b
     url: https://terlouw.ai
   - name: LinkCon 3
@@ -26,7 +24,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://terlouw.ai/wp-content/uploads/2023/01/test-logos-11-300x300.png
   name: Terlouw Artificial Intellegence Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Terlouw Artificial Intellegence Status."
   introMessage: For more information about our services, visit https://terlouw.ai
   navbar:
     - title: Status
