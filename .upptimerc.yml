@@ -7,6 +7,16 @@ sites:
     url: https://terlouw.ai
   - name: Mailserver
     url: https://outlook.office.com
+  - name: athena.terlouw.ai
+    url: https://athena.terlouw.ai
+  - name: artemis.terlouw.ai
+    url: https://aphrodite.terlouw.ai
+  - name: artemis.terlouw.ai
+    url: https://artemis.terlouw.ai
+  - name: API 3.6b
+    url: https://namecheap.com
+  - name: LinkCon 3
+    url: https://versio.nl
 
 
 status-website:
