@@ -8,12 +8,12 @@ sites:
   - name: Mailserver
     url: https://outlook.office.com
   - name: athena.terlouw.ai
-    url: https://terlouw.ai
+    url: https://athena.terlouw.ai
   - name: artemis.terlouw.ai
-    url: https://terlouw.ai
+    url: https://artemis.terlouw.ai
   - name: API 3.6b
-    url: https://terlouw.ai
-  - name: LinkCon 3
+    url: https://terlouw.io
+  - name: LinkCon 3 - Partner
     url: https://terlouw.legal
 
 
@@ -31,6 +31,7 @@ status-website:
       href: /
     - title: Terlouw Artificial Intelligence
       href: https://terlouw.ai
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
