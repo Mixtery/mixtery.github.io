@@ -4,19 +4,19 @@
     "url": "https://terlouw.ai",
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2348,
-    "timeDay": 14788,
-    "timeWeek": 3536,
-    "timeMonth": 2348,
-    "timeYear": 2348,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2270,
+    "timeDay": 10150,
+    "timeWeek": 3294,
+    "timeMonth": 2270,
+    "timeYear": 2270,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 13
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://terlouw.io",
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.io.ico",
     "slug": "api-3-6b",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 2033,
-    "timeWeek": 2859,
-    "timeMonth": 1810,
-    "timeYear": 1810,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1898,
+    "timeDay": 2517,
+    "timeWeek": 2916,
+    "timeMonth": 1898,
+    "timeYear": 1898,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 13
     }
   },
   {
