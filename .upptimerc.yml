@@ -15,7 +15,8 @@ sites:
     url: https://terlouw.io
   - name: LinkCon 3 - Partner
     url: https://terlouw.legal
-
+  - name: Kantoor Link
+    url: https://office.terlouw.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
