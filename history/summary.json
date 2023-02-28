@@ -124,17 +124,19 @@
     "url": "https://office.terlouw.ai",
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 329,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 3409,
+    "timeDay": 9472,
+    "timeWeek": 3409,
+    "timeMonth": 3409,
+    "timeYear": 3409,
+    "dailyMinutesDown": {
+      "2023-02-28": 0
+    }
   }
 ]
