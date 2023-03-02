@@ -1,7 +1,7 @@
 url: https://terlouw.io
-status: up
-code: 200
-responseTime: 3713
-lastUpdated: 2023-03-01T23:06:21.359Z
+status: down
+code: 500
+responseTime: 1008
+lastUpdated: 2023-03-02T17:46:00.192Z
 startTime: Fri Feb 03 2023 21:17:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
