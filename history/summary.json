@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
     "status": "up",
-    "uptime": "74.01%",
+    "uptime": "74.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "69.54%",
-    "time": 960,
-    "timeDay": 1620,
-    "timeWeek": 1703,
-    "timeMonth": 1589,
-    "timeYear": 922,
+    "time": 962,
+    "timeDay": 1938,
+    "timeWeek": 1754,
+    "timeMonth": 1601,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2024-03-15": 52,
       "2024-02-13": 1270,
@@ -132,8 +132,7 @@
       "2023-06-08": 331,
       "2023-05-31": 22,
       "2023-05-09": 34,
-      "2023-04-18": 32,
-      "2023-04-09": 21
+      "2023-04-18": 32
     }
   },
   {
@@ -148,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 133,
-    "timeWeek": 325,
-    "timeMonth": 325,
+    "timeDay": 481,
+    "timeWeek": 330,
+    "timeMonth": 334,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-07-12": 18,
@@ -168,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 589,
-    "timeWeek": 485,
-    "timeMonth": 477,
-    "timeYear": 429,
+    "time": 426,
+    "timeDay": 984,
+    "timeWeek": 535,
+    "timeMonth": 496,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2023-05-09": 22
     }
@@ -189,10 +188,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 594,
-    "timeWeek": 474,
-    "timeMonth": 458,
-    "timeYear": 384,
+    "timeDay": 695,
+    "timeWeek": 483,
+    "timeMonth": 468,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2023-05-09": 21
     }
@@ -208,11 +207,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 2787,
-    "timeDay": 2628,
-    "timeWeek": 2715,
-    "timeMonth": 3160,
-    "timeYear": 2773,
+    "time": 2786,
+    "timeDay": 2599,
+    "timeWeek": 2732,
+    "timeMonth": 3172,
+    "timeYear": 2772,
     "dailyMinutesDown": {
       "2023-09-15": 30,
       "2023-09-07": 21,
@@ -220,8 +219,7 @@
       "2023-06-08": 331,
       "2023-05-31": 31,
       "2023-05-09": 32,
-      "2023-04-18": 32,
-      "2023-04-09": 21
+      "2023-04-18": 32
     }
   },
   {
@@ -236,10 +234,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 2116,
-    "timeDay": 1647,
-    "timeWeek": 1838,
-    "timeMonth": 1959,
-    "timeYear": 2032,
+    "timeDay": 1952,
+    "timeWeek": 1692,
+    "timeMonth": 1916,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2023-09-15": 30,
       "2023-09-07": 20,
@@ -247,8 +245,7 @@
       "2023-07-15": 35,
       "2023-06-08": 331,
       "2023-05-31": 30,
-      "2023-05-09": 31,
-      "2023-04-09": 21
+      "2023-05-09": 31
     }
   },
   {
@@ -257,18 +254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "14.20%",
+    "uptime": "14.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.54%",
+    "uptimeYear": "5.27%",
     "time": 359,
-    "timeDay": 308,
-    "timeWeek": 275,
-    "timeMonth": 258,
-    "timeYear": 268,
+    "timeDay": 380,
+    "timeWeek": 284,
+    "timeMonth": 262,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-04-07": 58,
+      "2024-04-08": 54,
+      "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
