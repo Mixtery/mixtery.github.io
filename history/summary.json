@@ -138,12 +138,12 @@
     "slug": "mailserver",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "78.43%",
+    "uptimeDay": "79.62%",
     "uptimeWeek": "85.32%",
     "uptimeMonth": "93.49%",
     "uptimeYear": "99.46%",
     "time": 275,
-    "timeDay": 224,
+    "timeDay": 228,
     "timeWeek": 238,
     "timeMonth": 264,
     "timeYear": 275,
@@ -255,7 +255,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "10.02%",
+    "uptime": "10.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -266,7 +266,8 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-09-23": 1408,
+      "2024-09-24": 69,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -629,8 +630,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   }
 ]
