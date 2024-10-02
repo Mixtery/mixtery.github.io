@@ -137,19 +137,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "88.38%",
-    "uptimeWeek": "85.38%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "85.62%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 272,
-    "timeDay": 222,
+    "timeDay": 218,
     "timeWeek": 243,
     "timeMonth": 263,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-10-02": 23,
+      "2024-10-02": 25,
       "2024-10-01": 145,
       "2024-09-30": 116,
       "2024-09-29": 339,
@@ -164,7 +164,7 @@
       "2024-09-20": 221,
       "2024-09-19": 219,
       "2024-09-18": 192,
-      "2024-09-17": 78
+      "2024-09-17": 56
     }
   },
   {
@@ -257,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "9.88%",
+    "uptime": "9.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -268,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-10-02": 186,
+      "2024-10-02": 267,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
