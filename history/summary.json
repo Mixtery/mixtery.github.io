@@ -137,19 +137,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "85.17%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "99.43%",
     "time": 277,
-    "timeDay": 244,
-    "timeWeek": 244,
+    "timeDay": 237,
+    "timeWeek": 243,
     "timeMonth": 264,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-10-02": 251,
+      "2024-10-02": 253,
       "2024-10-01": 145,
       "2024-09-30": 116,
       "2024-09-29": 339,
@@ -162,8 +162,7 @@
       "2024-09-22": 128,
       "2024-09-21": 179,
       "2024-09-20": 221,
-      "2024-09-19": 219,
-      "2024-09-18": 5
+      "2024-09-19": 139
     }
   },
   {
@@ -267,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-10-02": 1097,
+      "2024-10-02": 1165,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
