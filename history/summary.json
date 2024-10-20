@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
     "status": "up",
-    "uptime": "82.18%",
+    "uptime": "82.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -137,19 +137,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "87.27%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "92.38%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "86.43%",
+    "uptimeMonth": "92.43%",
     "uptimeYear": "99.37%",
     "time": 271,
-    "timeDay": 245,
-    "timeWeek": 244,
+    "timeDay": 238,
+    "timeWeek": 243,
     "timeMonth": 242,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-10-20": 163,
+      "2024-10-20": 165,
       "2024-10-19": 111,
       "2024-10-18": 230,
       "2024-10-17": 202,
@@ -164,7 +164,7 @@
       "2024-10-08": 334,
       "2024-10-07": 282,
       "2024-10-06": 227,
-      "2024-10-05": 80
+      "2024-10-05": 58
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-10-20": 927,
+      "2024-10-20": 941,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
