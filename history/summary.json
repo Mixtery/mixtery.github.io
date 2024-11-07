@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.90%",
-    "time": 1279,
-    "timeDay": 1350,
-    "timeWeek": 1786,
-    "timeMonth": 1697,
-    "timeYear": 1452,
+    "uptimeYear": "72.93%",
+    "time": 1280,
+    "timeDay": 1389,
+    "timeWeek": 1773,
+    "timeMonth": 1695,
+    "timeYear": 1453,
     "dailyMinutesDown": {
       "2024-10-02": 57,
       "2024-03-15": 52,
@@ -114,8 +114,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -125,17 +124,17 @@
     "slug": "mailserver",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "85.81%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "81.22%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "99.39%",
     "time": 264,
-    "timeDay": 230,
+    "timeDay": 236,
     "timeWeek": 242,
-    "timeMonth": 245,
+    "timeMonth": 244,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-11-06": 205,
+      "2024-11-06": 194,
       "2024-11-05": 257,
       "2024-11-04": 196,
       "2024-11-03": 403,
@@ -148,7 +147,7 @@
       "2024-10-27": 215,
       "2024-10-26": 134,
       "2024-10-25": 237,
-      "2024-10-24": 78
+      "2024-10-24": 100
     }
   },
   {
@@ -163,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
-    "timeDay": 443,
-    "timeWeek": 514,
-    "timeMonth": 528,
+    "timeDay": 434,
+    "timeWeek": 481,
+    "timeMonth": 530,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -181,8 +180,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 482,
-    "timeWeek": 522,
+    "timeDay": 406,
+    "timeWeek": 484,
     "timeMonth": 531,
     "timeYear": 442,
     "dailyMinutesDown": {}
@@ -198,11 +197,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 2658,
-    "timeDay": 2550,
-    "timeWeek": 2803,
-    "timeMonth": 3025,
-    "timeYear": 2720,
+    "time": 2662,
+    "timeDay": 4321,
+    "timeWeek": 3088,
+    "timeMonth": 3071,
+    "timeYear": 2725,
     "dailyMinutesDown": {
       "2024-10-02": 54,
       "2024-08-17": 31,
@@ -224,10 +223,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1904,
-    "timeDay": 2308,
-    "timeWeek": 1850,
-    "timeMonth": 1878,
-    "timeYear": 1993,
+    "timeDay": 2583,
+    "timeWeek": 2016,
+    "timeMonth": 1893,
+    "timeYear": 1995,
     "dailyMinutesDown": {
       "2024-10-29": 30,
       "2024-10-02": 54,
@@ -242,7 +241,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "9.31%",
+    "uptime": "9.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -253,7 +252,8 @@
     "timeMonth": 12643,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-11-06": 1379,
+      "2024-11-07": 69,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -616,8 +616,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   }
 ]
