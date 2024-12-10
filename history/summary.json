@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "81.94%",
+    "uptimeYear": "81.97%",
     "time": 1372,
     "timeDay": 9296,
-    "timeWeek": 2484,
+    "timeWeek": 2644,
     "timeMonth": 2031,
     "timeYear": 1555,
     "dailyMinutesDown": {
@@ -82,8 +82,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -92,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "80.30%",
-    "uptimeWeek": "82.54%",
-    "uptimeMonth": "92.57%",
+    "uptime": "99.66%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 274,
-    "timeDay": 242,
-    "timeWeek": 320,
+    "timeDay": 239,
+    "timeWeek": 321,
     "timeMonth": 325,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-12-09": 234,
+      "2024-12-09": 220,
       "2024-12-08": 170,
       "2024-12-07": 228,
       "2024-12-06": 274,
@@ -117,7 +116,7 @@
       "2024-11-28": 155,
       "2024-11-27": 169,
       "2024-11-26": 153,
-      "2024-11-25": 201
+      "2024-11-25": 220
     }
   },
   {
@@ -151,7 +150,7 @@
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 397,
-    "timeWeek": 475,
+    "timeWeek": 477,
     "timeMonth": 489,
     "timeYear": 454,
     "dailyMinutesDown": {}
@@ -169,7 +168,7 @@
     "uptimeYear": "99.43%",
     "time": 2545,
     "timeDay": 502,
-    "timeWeek": 456,
+    "timeWeek": 459,
     "timeMonth": 724,
     "timeYear": 2580,
     "dailyMinutesDown": {
@@ -195,7 +194,7 @@
     "uptimeYear": "99.96%",
     "time": 1958,
     "timeDay": 2763,
-    "timeWeek": 2423,
+    "timeWeek": 2460,
     "timeMonth": 2442,
     "timeYear": 2060,
     "dailyMinutesDown": {
@@ -213,18 +212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "8.84%",
+    "uptime": "8.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 908,
     "timeDay": 1234,
-    "timeWeek": 4342,
+    "timeWeek": 4919,
     "timeMonth": 8218,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2024-12-09": 1389,
+      "2024-12-10": 77,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -587,8 +587,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   }
 ]
