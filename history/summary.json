@@ -13,7 +13,7 @@
     "time": 1463,
     "timeDay": 2438,
     "timeWeek": 2655,
-    "timeMonth": 2435,
+    "timeMonth": 2429,
     "timeYear": 1645,
     "dailyMinutesDown": {
       "2024-12-30": 108,
@@ -62,8 +62,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -71,19 +70,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "88.49%",
+    "uptimeDay": "87.76%",
     "uptimeWeek": "87.10%",
-    "uptimeMonth": "93.16%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "99.43%",
     "time": 273,
-    "timeDay": 209,
-    "timeWeek": 242,
-    "timeMonth": 278,
+    "timeDay": 217,
+    "timeWeek": 243,
+    "timeMonth": 277,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-12-30": 164,
+      "2024-12-30": 175,
       "2024-12-29": 194,
       "2024-12-28": 147,
       "2024-12-27": 214,
@@ -115,7 +114,7 @@
     "time": 446,
     "timeDay": 484,
     "timeWeek": 535,
-    "timeMonth": 496,
+    "timeMonth": 495,
     "timeYear": 478,
     "dailyMinutesDown": {}
   },
@@ -133,7 +132,7 @@
     "time": 432,
     "timeDay": 488,
     "timeWeek": 471,
-    "timeMonth": 476,
+    "timeMonth": 475,
     "timeYear": 462,
     "dailyMinutesDown": {}
   },
@@ -151,7 +150,7 @@
     "time": 2455,
     "timeDay": 417,
     "timeWeek": 370,
-    "timeMonth": 416,
+    "timeMonth": 417,
     "timeYear": 2466,
     "dailyMinutesDown": {
       "2024-11-24": 25,
@@ -177,7 +176,7 @@
     "time": 2062,
     "timeDay": 4973,
     "timeWeek": 5406,
-    "timeMonth": 3454,
+    "timeMonth": 3416,
     "timeYear": 2173,
     "dailyMinutesDown": {
       "2024-11-24": 24,
@@ -197,7 +196,7 @@
     "uptime": "8.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1335,
     "timeDay": 0,
@@ -205,7 +204,8 @@
     "timeMonth": 8880,
     "timeYear": 1879,
     "dailyMinutesDown": {
-      "2024-12-30": 1429,
+      "2024-12-31": 1,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -568,8 +568,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
