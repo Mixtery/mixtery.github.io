@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "88.63%",
+    "uptimeYear": "88.66%",
     "time": 1474,
     "timeDay": 3257,
     "timeWeek": 2162,
@@ -67,15 +67,15 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "88.84%",
-    "uptimeMonth": "93.86%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.49%",
     "time": 273,
-    "timeDay": 249,
-    "timeWeek": 268,
+    "timeDay": 237,
+    "timeWeek": 270,
     "timeMonth": 279,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
       "2024-12-22": 112,
       "2024-12-21": 244,
       "2024-12-20": 199,
-      "2024-12-19": 141
+      "2024-12-19": 108
     }
   },
   {
@@ -190,7 +190,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "8.52%",
+    "uptime": "8.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -201,7 +201,7 @@
     "timeMonth": 9358,
     "timeYear": 1960,
     "dailyMinutesDown": {
-      "2025-01-03": 641,
+      "2025-01-03": 809,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
