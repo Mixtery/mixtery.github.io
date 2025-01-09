@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "90.32%",
+    "uptimeYear": "90.33%",
     "time": 1489,
     "timeDay": 2157,
     "timeWeek": 1960,
@@ -61,19 +61,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "82.73%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "82.67%",
     "uptimeWeek": "85.39%",
-    "uptimeMonth": "92.66%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 272,
-    "timeDay": 247,
+    "timeDay": 244,
     "timeWeek": 240,
     "timeMonth": 261,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-01-09": 190,
+      "2025-01-09": 191,
       "2025-01-08": 297,
       "2025-01-07": 20,
       "2025-01-06": 215,
@@ -90,7 +90,7 @@
       "2024-12-26": 128,
       "2024-12-25": 158,
       "2024-12-24": 284,
-      "2024-12-23": 110
+      "2024-12-23": 91
     }
   },
   {
@@ -197,7 +197,7 @@
     "timeMonth": 8858,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2025-01-09": 875,
+      "2025-01-09": 946,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
