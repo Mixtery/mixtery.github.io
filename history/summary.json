@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "90.41%",
+    "uptimeYear": "90.43%",
     "time": 1490,
     "timeDay": 1396,
     "timeWeek": 1694,
-    "timeMonth": 2482,
+    "timeMonth": 2287,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2024-12-30": 108,
@@ -52,8 +52,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 1440,
-      "2024-01-11": 1440
+      "2024-01-12": 1440
     }
   },
   {
@@ -61,19 +60,20 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "82.77%",
-    "uptimeWeek": "85.31%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "84.35%",
+    "uptimeWeek": "86.01%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 272,
     "timeDay": 225,
     "timeWeek": 237,
-    "timeMonth": 261,
+    "timeMonth": 260,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-01-09": 247,
+      "2025-01-10": 1,
+      "2025-01-09": 233,
       "2025-01-08": 297,
       "2025-01-07": 20,
       "2025-01-06": 215,
@@ -107,7 +107,7 @@
     "time": 449,
     "timeDay": 535,
     "timeWeek": 463,
-    "timeMonth": 488,
+    "timeMonth": 492,
     "timeYear": 481,
     "dailyMinutesDown": {}
   },
@@ -125,7 +125,7 @@
     "time": 433,
     "timeDay": 364,
     "timeWeek": 423,
-    "timeMonth": 470,
+    "timeMonth": 472,
     "timeYear": 467,
     "dailyMinutesDown": {}
   },
@@ -143,7 +143,7 @@
     "time": 2415,
     "timeDay": 448,
     "timeWeek": 390,
-    "timeMonth": 406,
+    "timeMonth": 403,
     "timeYear": 2411,
     "dailyMinutesDown": {
       "2024-11-24": 25,
@@ -169,7 +169,7 @@
     "time": 2106,
     "timeDay": 2144,
     "timeWeek": 3583,
-    "timeMonth": 3836,
+    "timeMonth": 3868,
     "timeYear": 2229,
     "dailyMinutesDown": {
       "2024-11-24": 24,
@@ -194,10 +194,11 @@
     "time": 1404,
     "timeDay": 2306,
     "timeWeek": 1059,
-    "timeMonth": 8585,
+    "timeMonth": 8905,
     "timeYear": 1988,
     "dailyMinutesDown": {
-      "2025-01-09": 1389,
+      "2025-01-10": 51,
+      "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -560,8 +561,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 1440,
-      "2024-01-11": 1440
+      "2024-01-12": 1440
     }
   }
 ]
