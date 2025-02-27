@@ -5,9 +5,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
     "status": "up",
-    "uptime": "83.99%",
+    "uptime": "84.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "48.31%",
+    "uptimeWeek": "49.01%",
     "uptimeMonth": "69.46%",
     "uptimeYear": "97.40%",
     "time": 1591,
@@ -40,9 +40,9 @@
     "slug": "mailserver",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "85.48%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "85.58%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "99.39%",
     "time": 271,
     "timeDay": 236,
@@ -50,7 +50,7 @@
     "timeMonth": 241,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-02-26": 145,
+      "2025-02-26": 134,
       "2025-02-25": 111,
       "2025-02-24": 149,
       "2025-02-23": 163,
@@ -66,7 +66,7 @@
       "2025-02-13": 289,
       "2025-02-12": 311,
       "2025-02-11": 225,
-      "2025-02-10": 22
+      "2025-02-10": 39
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2025-02-27": 1,
+      "2025-02-27": 72,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
