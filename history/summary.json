@@ -13,7 +13,7 @@
     "time": 1616,
     "timeDay": 1590,
     "timeWeek": 1813,
-    "timeMonth": 1711,
+    "timeMonth": 1609,
     "timeYear": 1759,
     "dailyMinutesDown": {
       "2025-02-27": 50,
@@ -41,13 +41,13 @@
     "slug": "mailserver",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "84.95%",
+    "uptimeDay": "85.56%",
     "uptimeWeek": "87.67%",
     "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 270,
-    "timeDay": 241,
-    "timeWeek": 276,
+    "timeDay": 228,
+    "timeWeek": 277,
     "timeMonth": 250,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "7.77%",
+    "uptime": "7.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -180,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 2579,
     "dailyMinutesDown": {
-      "2025-03-09": 1388,
+      "2025-03-10": 62,
+      "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -543,8 +544,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1440,
-      "2024-03-10": 1440
+      "2024-03-11": 1440
     }
   }
 ]
