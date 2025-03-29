@@ -39,19 +39,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "72.11%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "82.97%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 269,
-    "timeDay": 233,
-    "timeWeek": 236,
+    "timeDay": 230,
+    "timeWeek": 238,
     "timeMonth": 254,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-29": 310,
+      "2025-03-29": 312,
       "2025-03-28": 239,
       "2025-03-27": 184,
       "2025-03-26": 232,
@@ -64,7 +64,7 @@
       "2025-03-19": 79,
       "2025-03-18": 274,
       "2025-03-17": 249,
-      "2025-03-16": 59
+      "2025-03-16": 42
     }
   },
   {
@@ -167,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.terlouw.ai.ico",
     "slug": "kantoor-link",
     "status": "down",
-    "uptime": "7.57%",
+    "uptime": "7.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 2798,
     "dailyMinutesDown": {
-      "2025-03-29": 641,
+      "2025-03-29": 956,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
