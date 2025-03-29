@@ -13,7 +13,7 @@
     "time": 1658,
     "timeDay": 1632,
     "timeWeek": 1899,
-    "timeMonth": 1895,
+    "timeMonth": 1927,
     "timeYear": 1781,
     "dailyMinutesDown": {
       "2025-03-11": 27,
@@ -41,17 +41,18 @@
     "slug": "mailserver",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "84.59%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "82.71%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 269,
-    "timeDay": 217,
-    "timeWeek": 234,
-    "timeMonth": 255,
+    "timeDay": 222,
+    "timeWeek": 235,
+    "timeMonth": 254,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-28": 254,
+      "2025-03-29": 10,
+      "2025-03-28": 239,
       "2025-03-27": 184,
       "2025-03-26": 232,
       "2025-03-25": 361,
@@ -81,7 +82,7 @@
     "time": 465,
     "timeDay": 431,
     "timeWeek": 472,
-    "timeMonth": 483,
+    "timeMonth": 484,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-02-27": 21
@@ -101,7 +102,7 @@
     "time": 473,
     "timeDay": 402,
     "timeWeek": 463,
-    "timeMonth": 481,
+    "timeMonth": 482,
     "timeYear": 505,
     "dailyMinutesDown": {}
   },
@@ -119,7 +120,7 @@
     "time": 2088,
     "timeDay": 302,
     "timeWeek": 367,
-    "timeMonth": 392,
+    "timeMonth": 388,
     "timeYear": 1961,
     "dailyMinutesDown": {
       "2025-02-27": 48,
@@ -146,7 +147,7 @@
     "time": 2289,
     "timeDay": 2622,
     "timeWeek": 2364,
-    "timeMonth": 2778,
+    "timeMonth": 2812,
     "timeYear": 2351,
     "dailyMinutesDown": {
       "2025-03-23": 29,
@@ -170,7 +171,7 @@
     "uptime": "7.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 1756,
     "timeDay": 0,
@@ -178,7 +179,8 @@
     "timeMonth": 0,
     "timeYear": 2798,
     "dailyMinutesDown": {
-      "2025-03-28": 1390,
+      "2025-03-29": 74,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -541,8 +543,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   }
 ]
