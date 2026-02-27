@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
     "status": "up",
-    "uptime": "88.92%",
+    "uptime": "88.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
     "time": 1858,
-    "timeDay": 1349,
-    "timeWeek": 1793,
-    "timeMonth": 1654,
-    "timeYear": 1828,
+    "timeDay": 1640,
+    "timeWeek": 1792,
+    "timeMonth": 1659,
+    "timeYear": 1829,
     "dailyMinutesDown": {
       "2025-11-18": 182,
       "2025-11-03": 16,
@@ -27,8 +27,7 @@
       "2025-05-29": 131,
       "2025-04-09": 18,
       "2025-03-30": 20,
-      "2025-03-11": 27,
-      "2025-02-27": 50
+      "2025-03-11": 27
     }
   },
   {
@@ -37,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
     "status": "down",
-    "uptime": "70.53%",
+    "uptime": "70.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.71%",
+    "uptimeYear": "9.44%",
     "time": 244,
-    "timeDay": 62,
-    "timeWeek": 79,
+    "timeDay": 103,
+    "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-02-26": 114,
+      "2026-02-27": 112,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -403,15 +403,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 603,
-    "timeDay": 537,
-    "timeWeek": 568,
-    "timeMonth": 535,
-    "timeYear": 640,
+    "time": 602,
+    "timeDay": 457,
+    "timeWeek": 558,
+    "timeMonth": 536,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2025-11-18": 135,
-      "2025-04-09": 17,
-      "2025-02-27": 21
+      "2025-04-09": 17
     }
   },
   {
@@ -422,13 +421,13 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 564,
-    "timeDay": 493,
-    "timeWeek": 485,
-    "timeMonth": 494,
+    "time": 563,
+    "timeDay": 347,
+    "timeWeek": 456,
+    "timeMonth": 492,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2026-02-19": 40,
@@ -446,14 +445,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 554,
-    "timeDay": 321,
-    "timeWeek": 423,
-    "timeMonth": 379,
+    "time": 549,
+    "timeDay": 428,
+    "timeWeek": 447,
+    "timeMonth": 384,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-11-18": 194,
-      "2025-02-27": 48
+      "2025-11-18": 194
     }
   },
   {
@@ -462,18 +460,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.legal.ico",
     "slug": "link-con-3-partner",
     "status": "down",
-    "uptime": "98.95%",
+    "uptime": "98.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.09%",
-    "uptimeYear": "96.97%",
-    "time": 2675,
-    "timeDay": 3152,
-    "timeWeek": 3065,
-    "timeMonth": 3034,
-    "timeYear": 2725,
+    "uptimeMonth": "61.80%",
+    "uptimeYear": "96.69%",
+    "time": 2678,
+    "timeDay": 3432,
+    "timeWeek": 3078,
+    "timeMonth": 3078,
+    "timeYear": 2727,
     "dailyMinutesDown": {
-      "2026-02-26": 114,
+      "2026-02-27": 113,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -500,8 +499,7 @@
       "2025-05-23": 33,
       "2025-05-22": 35,
       "2025-03-30": 19,
-      "2025-03-23": 29,
-      "2025-02-27": 46
+      "2025-03-23": 29
     }
   },
   {
@@ -515,13 +513,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 17731,
-    "timeDay": 19673,
-    "timeWeek": 19686,
-    "timeMonth": 19664,
+    "time": 17736,
+    "timeDay": 19735,
+    "timeWeek": 19672,
+    "timeMonth": 19672,
     "timeYear": 19597,
     "dailyMinutesDown": {
-      "2026-02-26": 114,
+      "2026-02-27": 113,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -884,8 +883,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1440,
-      "2025-02-27": 1440
+      "2025-02-28": 1440
     }
   }
 ]
