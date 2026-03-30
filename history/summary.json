@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.ai.ico",
     "slug": "webserver",
     "status": "up",
-    "uptime": "89.22%",
-    "uptimeDay": "97.90%",
+    "uptime": "89.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.14%",
-    "time": 1828,
-    "timeDay": 2497,
-    "timeWeek": 1695,
-    "timeMonth": 1756,
+    "time": 1824,
+    "timeDay": 1389,
+    "timeWeek": 1698,
+    "timeMonth": 1744,
     "timeYear": 1814,
     "dailyMinutesDown": {
       "2026-03-28": 30,
@@ -28,8 +28,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 131,
-      "2025-04-09": 18,
-      "2025-03-30": 20
+      "2025-04-09": 18
     }
   },
   {
@@ -38,18 +37,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "mailserver",
     "status": "down",
-    "uptime": "68.62%",
+    "uptime": "68.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "1.50%",
-    "time": 227,
-    "timeDay": 0,
-    "timeWeek": 137,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "1.30%",
+    "time": 225,
+    "timeDay": 123,
+    "timeWeek": 138,
     "timeMonth": 140,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-03-29": 130,
+      "2026-03-30": 132,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -412,8 +412,7 @@
       "2025-04-03": 167,
       "2025-04-02": 248,
       "2025-04-01": 370,
-      "2025-03-31": 107,
-      "2025-03-30": 225
+      "2025-03-31": 107
     }
   },
   {
@@ -427,11 +426,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 600,
-    "timeDay": 0,
-    "timeWeek": 505,
-    "timeMonth": 459,
-    "timeYear": 639,
+    "time": 599,
+    "timeDay": 336,
+    "timeWeek": 482,
+    "timeMonth": 454,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-11-18": 135,
       "2025-04-09": 17
@@ -449,9 +448,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 562,
-    "timeDay": 0,
-    "timeWeek": 524,
-    "timeMonth": 471,
+    "timeDay": 336,
+    "timeWeek": 523,
+    "timeMonth": 467,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2026-02-19": 40,
@@ -470,8 +469,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 454,
-    "timeDay": 0,
-    "timeWeek": 395,
+    "timeDay": 360,
+    "timeWeek": 391,
     "timeMonth": 358,
     "timeYear": 468,
     "dailyMinutesDown": {
@@ -484,18 +483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/terlouw.legal.ico",
     "slug": "link-con-3-partner",
     "status": "down",
-    "uptime": "96.27%",
+    "uptime": "96.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "88.49%",
-    "time": 2739,
-    "timeDay": 0,
-    "timeWeek": 3161,
-    "timeMonth": 3290,
-    "timeYear": 2763,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "88.21%",
+    "time": 2742,
+    "timeDay": 3386,
+    "timeWeek": 3265,
+    "timeMonth": 3294,
+    "timeYear": 2764,
     "dailyMinutesDown": {
-      "2026-03-29": 130,
+      "2026-03-30": 132,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -551,8 +551,7 @@
       "2025-08-03": 23,
       "2025-06-11": 19,
       "2025-05-23": 33,
-      "2025-05-22": 35,
-      "2025-03-30": 19
+      "2025-05-22": 35
     }
   },
   {
@@ -564,15 +563,16 @@
     "uptime": "5.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 18127,
-    "timeDay": 0,
-    "timeWeek": 19630,
-    "timeMonth": 19651,
-    "timeYear": 19602,
+    "time": 18130,
+    "timeDay": 19462,
+    "timeWeek": 19587,
+    "timeMonth": 19644,
+    "timeYear": 19601,
     "dailyMinutesDown": {
-      "2026-03-29": 130,
+      "2026-03-30": 132,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -935,8 +935,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   }
 ]
